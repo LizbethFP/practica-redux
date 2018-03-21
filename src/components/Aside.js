@@ -3,9 +3,7 @@ import AsideList from "./AsideList";
 
 const Aside = ({tahirih}) => (
 <aside>
-
     <AsideList tai={tahirih}/>
-
 </aside>
 )
 
